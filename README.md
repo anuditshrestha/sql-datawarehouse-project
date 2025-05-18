@@ -15,9 +15,9 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ### Objectives
 Develop SQL-based analytics to deliver detailed insights into:
--**Customer Behavior**
--**Product Performance**
--**Sales Trends**
+- **Customer Behavior**
+- **Product Performance**
+- **Sales Trends**
 
 
 
