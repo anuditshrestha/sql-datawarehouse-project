@@ -24,7 +24,7 @@ This project involves:
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
-🎯 This repository is an excellent resource for professionals and students looking to showcase expertise in:
+This repository is an excellent resource for professionals and students looking to showcase expertise in:
 - SQL Development
 - Data Architecture
 - Data Engineering  
@@ -34,7 +34,7 @@ This project involves:
 
 ---
 
-## 🛠️ Important Links & Tools
+## Important Links & Tools
 
 - **[Datasets](https://github.com/anuditshrestha/sql-datawarehouse-project/tree/main/datasets):** Access to the project dataset (csv files).
 - **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
@@ -60,7 +60,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 data-warehouse-project/
 │
